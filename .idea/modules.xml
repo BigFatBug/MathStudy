@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/Common (1).iml" filepath="$PROJECT_DIR$/common/Common (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/scoreMarker/common/Common (2).iml" filepath="$PROJECT_DIR$/scoreMarker/common/Common (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamStack (1).iml" filepath="$PROJECT_DIR$/ExamStack (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/scoreMarker/ExamStack (2).iml" filepath="$PROJECT_DIR$/scoreMarker/ExamStack (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/management/Management (1).iml" filepath="$PROJECT_DIR$/management/Management (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/scoreMarker/management/Management (2).iml" filepath="$PROJECT_DIR$/scoreMarker/management/Management (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal/Portal (1).iml" filepath="$PROJECT_DIR$/portal/Portal (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/scoreMarker/portal/Portal (2).iml" filepath="$PROJECT_DIR$/scoreMarker/portal/Portal (2).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Common (1)" />
+        <module name="Management (2)" />
+        <module name="Portal (1)" />
+      </profile>
+      <profile name="Annotation profile for ExamStack" enabled="true">
+        <sourceOutputDir name="../../common/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../common/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Common (2)" />
+      </profile>
+      <profile name="Annotation profile for Management (1)" enabled="true">
+        <sourceOutputDir name="../scoreMarker/management/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../scoreMarker/management/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Management (1)" />
+      </profile>
+      <profile name="Annotation profile for Portal (2)" enabled="true">
+        <sourceOutputDir name="../../portal/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../portal/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Portal (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Common (1)" target="1.5" />
+      <module name="Common (2)" target="1.8" />
+      <module name="ExamStack (1)" target="1.5" />
+      <module name="ExamStack (2)" target="1.5" />
+      <module name="Management (1)" target="1.8" />
+      <module name="Management (2)" target="1.5" />
+      <module name="Portal (1)" target="1.5" />
+      <module name="Portal (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
